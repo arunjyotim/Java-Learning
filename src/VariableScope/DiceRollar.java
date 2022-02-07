@@ -10,7 +10,7 @@ public class DiceRollar {
         Random random = new Random();
         int number = 0;
        /* roll();*/
-    }
+    }  // changed -------push
     /*--- 3rd Step: Creating a method ---*/
  /*   void roll(){
         number = random.nextInt(6)+1;
